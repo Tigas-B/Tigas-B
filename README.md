@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @Tigas-B
 - 👀 I’m interested in Programing fun stuff!
-- 🌱 I’m currently learning Full Stack Web Developer with CodeMaster
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning Programming related.
+- 💞️ I’m looking to collaborate on anything.
 - 📫 How to reach me ...
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: I love Photography and Travelling!
 
 <!---
 Tigas-B/Tigas-B is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
